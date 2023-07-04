@@ -1879,7 +1879,7 @@
 
 		#copyright a {
 			color: #ffffff;
-			border-bottom-color: rgba(255, 255, 255, 0.5);
+			text-decoration: none;
 		}
 
 			#copyright a:hover {
@@ -1910,7 +1910,7 @@
 
 		#copyright a {
 			color: inherit;
-			border-bottom-color: inherit;
+			text-decoration: none;
 		}
 
 		#copyright ul {
